@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="614px" height="305px" viewBox="0 0 614 305" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>Pass</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Pass" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g fill="#FFFFFF" fill-rule="nonzero" id="Group-5">
+            <g>
+                <g id="Group">
+                    <path d="M0,0 L0,305 L614,305 L614,0 L0,0 Z M578.023437,269.053156 L470.58423,269.053156 L470.58423,215.134688 L434.607668,215.134688 L434.607668,269.053156 L35.9765625,269.053156 L35.9765625,35.9456455 L434.607668,35.9456455 L434.607668,89.8641137 L470.58423,89.8641137 L470.58423,35.9456455 L578.023437,35.9456455 L578.023437,269.053156 Z" id="Shape"></path>
+                    <rect id="Rectangle-path" x="72.762987" y="70.7679739" width="129.577922" height="34.8856209"></rect>
+                    <rect id="Rectangle-path" x="72.762987" y="197.352941" width="224.269481" height="34.8856209"></rect>
+                    <rect id="Rectangle-path" x="72.762987" y="134.558824" width="224.269481" height="34.8856209"></rect>
+                    <rect id="Rectangle-path" x="435.581169" y="116.617647" width="34.8863636" height="72.7614379"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="328px" height="298px" viewBox="0 0 328 298" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>Warning</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Warning" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-3" fill-rule="nonzero">
+            <path d="M324.067823,251.598591 L190.855632,15.4668947 C179.496797,-5.15563157 148.517032,-5.15563157 137.15747,15.4668947 L3.94600606,251.598591 C-7.4128296,272.221117 7.04420037,298 30.7950872,298 L296.186252,298 C320.969628,296.969019 335.426658,272.221117 324.067823,251.598591 Z" id="Shape" fill="#F0AF47"></path>
+            <polygon id="Shape" fill="#FFFFFF" points="164.499636 32 298 269 31 269"></polygon>
+            <g id="Group" transform="translate(140.000000, 115.000000)" fill="#3F4448">
+                <path d="M0.735241935,24.9883636 L8.99346774,79.8087273 C10.0255645,86.0145455 15.1867742,91.1861818 22.4129032,91.1861818 C28.6062097,91.1861818 34.8002419,86.0145455 35.8323387,79.8087273 L44.0905645,24.9883636 C46.1547581,11.5418182 35.8323387,0.164363636 22.4129032,0.164363636 C8.99274194,0.163636364 -0.297580645,11.5418182 0.735241935,24.9883636 Z" id="Shape"></path>
+                <ellipse id="Oval" cx="22.4121774" cy="114.976" rx="12.3873387" ry="12.4123636"></ellipse>
+            </g>
+        </g>
+    </g>
+</svg>
