@@ -1,0 +1,17 @@
+directories:
+  output: app-builds
+  buildResources: build
+productName: angular-electron
+win:
+  icon: dist
+  target:
+    - portable
+mac:
+  icon: dist
+  target:
+    - dmg
+linux:
+  icon: dist
+  target:
+    - AppImage
+electronVersion: 1.8.4
